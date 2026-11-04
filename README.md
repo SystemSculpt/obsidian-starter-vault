@@ -21,6 +21,10 @@ Plain Markdown. Core plugins only: Daily notes, Templates and Bases.
 
 To chat with Claude Code or Codex inside Obsidian, add the free [SystemSculpt plugin](https://obsidian.md/plugins?id=systemsculpt-ai).
 
+## Want more?
+
+The **AI-ready vault** adds folders, eight agent skills, 60 prompts and an inbox for iPhone captures. See it in the [SystemSculpt shop](https://systemsculpt.com/shop?utm_source=github&utm_medium=readme&utm_campaign=starter-vault).
+
 ## Licence
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): use, change and share it, with credit to SystemSculpt.

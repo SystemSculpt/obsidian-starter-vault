@@ -6,7 +6,7 @@ A daily note, an inbox and house rules for AI. Free, from [SystemSculpt](https:/
 
 ## Use it
 
-1. [Download the zip](https://github.com/SystemSculpt/obsidian-starter-vault/releases/latest), or clone this repo.
+1. [Download the zip](https://systemsculpt.com/downloads/systemsculpt-starter-vault.zip), or clone this repo.
 2. In Obsidian, choose **Open folder as vault** and pick `Starter vault`.
 3. Click **Open today’s daily note** in the left ribbon.
 

@@ -31,3 +31,5 @@ To chat with Claude Code or Codex inside Obsidian, install the free [SystemSculp
 Everything uses Obsidian's core plugins: Daily notes, Templates and Bases. No community plugins.
 
 Made by [SystemSculpt](https://systemsculpt.com). Free to use and change.
+
+Want more? [[Next step]]

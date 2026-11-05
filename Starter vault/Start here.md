@@ -1,18 +1,18 @@
 # Start here
 
-A small vault that does one thing well: a daily note, an inbox and instructions an AI agent can follow.
+A small vault: a daily note, an inbox and instructions an AI agent can follow.
 
 ## Use it
 
 1. Click **Open today’s daily note** in the left ribbon. It opens on its own each time you start Obsidian, too.
-2. Put anything you don’t want to lose in `Inbox`. New notes land there.
+2. Put anything you don’t want to lose in the `Inbox` folder. New notes land there.
 3. At the end of the day, fill in the review at the bottom of today’s note.
 
 [[Daily notes.base|Daily notes]] lists every day you’ve written, newest first.
 
 ## Work on it with AI
 
-`AGENTS.md` and `CLAUDE.md` tell Claude Code, Codex and other coding agents how this vault works. Open a terminal in this folder and run `claude` or `codex`, then ask, for example:
+`AGENTS.md` and `CLAUDE.md` tell Claude Code, Codex and other coding agents how this vault works. Open a terminal in this folder and run `claude` or `codex` and ask, for example:
 
 > Sort my inbox. Move anything with a date into that day’s note. Ask before you delete anything.
 

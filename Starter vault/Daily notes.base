@@ -3,12 +3,13 @@ filters:
     - file.inFolder("Daily")
 formulas:
   day: date(file.name).format("dddd")
+  edited: file.mtime.format("ddd MMM D, h:mm A")
 properties:
   file.name:
     displayName: Day
   formula.day:
     displayName: Weekday
-  file.mtime:
+  formula.edited:
     displayName: Last edited
 views:
   - type: table
@@ -16,7 +17,7 @@ views:
     order:
       - file.name
       - formula.day
-      - file.mtime
+      - formula.edited
     columnSize:
       file.name: 160
       formula.day: 160
